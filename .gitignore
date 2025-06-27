@@ -1,3 +1,4 @@
 lsst.csv
 light_curves/__pycache__/
 .~lock.*#
+cadence/
